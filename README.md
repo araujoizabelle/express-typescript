@@ -13,13 +13,13 @@ A integração com o Swagger está no branch swagger-config.
 1. Clone the repo:
 
    ```sh
-   git clone
+   git clone https://github.com/araujoizabelle/express-typescript.git
    ```
 
    Or
 
    ```sh
-   git clone 
+   git clone git@github.com:araujoizabelle/express-typescript.git
    ```
 
 2. Install npm packages:
